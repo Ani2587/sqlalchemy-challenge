@@ -9,9 +9,7 @@ The purpose is to empower users with insights for a successful vacation by lever
 ![image](https://github.com/Ani2587/sqlalchemy-challenge/assets/17106097/59fb9d93-437e-4d99-83e9-9bbc8e30e5f2)
 
 
-
-
-
+![image](https://github.com/Ani2587/sqlalchemy-challenge/assets/17106097/d23444a9-5dab-4df3-97f2-f6340393860d)
 
 
 ## Instructions 
