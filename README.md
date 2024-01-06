@@ -12,6 +12,8 @@ The purpose is to empower users with insights for a successful vacation by lever
 
 
 
+
+
 ## Instructions 
 
 Follow these steps to successfully run both programs (app.py and climate_starter.ipynb):
